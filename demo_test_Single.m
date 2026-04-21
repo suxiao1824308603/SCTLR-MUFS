@@ -14,6 +14,7 @@ temp_fea_num = 0.02;  % 可改为 [0.1] 或其他固定值
 % KMeans 设置
 MAXiter = 500;    % 最大迭代次数
 REPlic  = 20;     % 重复次数（每次随机初始化）
+addpath ./datasets clustering\ funs\ update\
 
 % 数据路径
 load('NGs.mat');  % 确保 X 和 gt 已定义
