@@ -26,11 +26,13 @@ If you find this code useful for your research, please consider citing our paper
 @article{SU2026113721,
 title = {Self-representation and low-rank tensor based multi-view unsupervised feature selection},
 journal = {Pattern Recognition},
+volume = {179},
 pages = {113721},
 year = {2026},
 issn = {0031-3203},
 doi = {https://doi.org/10.1016/j.patcog.2026.113721},
 url = {https://www.sciencedirect.com/science/article/pii/S0031320326006862},
-author = {Jingfeng Su and Hangjun Che and Qianlong Zhou and Man-Fai Leung and You Zhao and Junjian Huang and Xing He}
+author = {Jingfeng Su and Hangjun Che and Qianlong Zhou and Man-Fai Leung and You Zhao and Junjian Huang and Xing He},
+keywords = {Unsupervised feature selection, Subspace clustering, Low-rank tensor, Self-representation}
 }
 ```
